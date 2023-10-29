@@ -1,12 +1,21 @@
 package PITAGORAS;
 
+import java.util.Scanner;
+
 public class Pitagoras {
 
-    Obliczenia obliczenia;
+    Scanner scanner;
+    Obliczenia obliczenia = new Obliczenia();
+
+    double a, b;
 
     public Pitagoras(){
-        obliczenia = new PITAGORAS.Obliczenia();
+        scanner = new Scanner(System.in);
+        System.out.println("Input a");
+        a = scanner.nextDouble();
+        System.out.println("Input b");
+        b = scanner.nextDouble();
 
-        System.out.println(obliczenia.c);
+        obliczenia.Calculations(a, b);
     }
 }

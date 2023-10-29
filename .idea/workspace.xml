@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8a7bba2-a1f7-4321-b8cc-6056cb2ae912" name="Changes" comment="2">
-      <change afterPath="$PROJECT_DIR$/src/PITAGORAS/Obliczenia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PITAGORAS/Pitagoras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHOICE/Choice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHOICE/Choice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CHOICE/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CHOICE/MainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DELTA/Delta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DELTA/Delta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DELTA/Obliczenia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DELTA/Obliczenia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PITAGORAS/Obliczenia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PITAGORAS/Obliczenia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PITAGORAS/Pitagoras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PITAGORAS/Pitagoras.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
